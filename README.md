@@ -2,7 +2,7 @@
 This is a Demo for Git &amp; Git hub class.
 
 #Teacher 
-Shradha khapra
+abc
 
 #Student
 Himanshu
